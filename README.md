@@ -89,5 +89,5 @@ Windows                  15 hrs 59 mins      ███████████�
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <div align="center">
-    Made with ❤️ by <a href="https://www.linkedin.com/in/shahbaz-ali-b59b79242/" target="_blank">Hamza Yaqub</a>
+    Made with ❤️ by <a href="https://www.linkedin.com/in/shahbaz-ali-b59b79242/" target="_blank">Shahbaz Ali</a>
 </div>
