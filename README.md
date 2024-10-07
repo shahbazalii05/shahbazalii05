@@ -2,6 +2,8 @@
 # Hello! 👋 I am Shahbaz Ali #
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/shahbazalii05)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shahbaz-ali-b59b79242/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/shahbaz._.alii?igsh=MW4wbGxwZmd3MDg4bg==)
+&nbsp;
 <div>
 <br/>
 - 🔭 Full-stack developer with 1+ years of experience designing and building scalable, high-performance web and mobile applications<br/>
